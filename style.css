@@ -12,3 +12,9 @@ body {
     height: 20px;
     background-color: blue;
 }
+a {
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+}
